@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router";
 
+/* hej */
+
 export default class HomePage extends Component {
   render() {
     return (
